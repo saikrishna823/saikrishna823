@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikrishna823
 - 👀 I’m interested in building apps,coding and always wants to learn new technologies.
-- 🌱 I’m currently learning Android development using flutter and working on web development.
+- 🌱 I’m currently learning Android development using kotlin and working on web development.I also have some knowledge in data structures and algorithms.
 
 <!---
 saikrishna823/saikrishna823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
